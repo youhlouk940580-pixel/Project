@@ -1,0 +1,29 @@
+[33mcommit 43c9a9cc3f8790430189654206e5a630d567388b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: youhl <youhlouk940580@gmail.com>
+Date:   Thu Feb 19 18:20:48 2026 +0100
+
+    add author
+
+[33mcommit d8f49ca64ba7d3ca3fc380bc0dc35d9011ede5cc[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: youhl <youhlouk940580@gmail.com>
+Date:   Thu Feb 19 17:40:15 2026 +0100
+
+    Hide confidential files
+
+[33mcommit 7d0783ee05ddb4c9bef7476788dc9c32380c54a2[m
+Author: youhl <youhlouk940580@gmail.com>
+Date:   Thu Feb 19 17:01:52 2026 +0100
+
+    change the display format of month
+
+[33mcommit e2e3e6fee9d71c8c3cd3823b6aefd7d0debf9cd8[m
+Author: youhl <youhlouk940580@gmail.com>
+Date:   Thu Feb 19 16:45:26 2026 +0100
+
+    change the display form
+
+[33mcommit 09e7e6c822f90c9d9fbc488aa2df87f40dc3e6b1[m
+Author: youhl <youhlouk940580@gmail.com>
+Date:   Thu Feb 19 16:20:48 2026 +0100
+
+    make a function to show the current time
