@@ -5,4 +5,6 @@ set_time = dt.datetime(1994,5,20)
 print(set_time.strftime("%Y %m %d"))
 print("David")
 
-story = "This is my final version of stories to merge"
+<<<<<<< HEAD
+story = "This is my final version of stories to merge. I like this version finally"
+>>>>>>> story-line
